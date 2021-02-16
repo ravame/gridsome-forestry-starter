@@ -1,8 +1,8 @@
 {
-  "footer": "Copyright &copy; 2021",
-  "dark_mode": true,
+  "footer": "Copyright Mehdi Ravandi &copy; 2021",
+  "dark_mode": false,
   "site_name": "M. Ravandi",
-  "site_description": "Creative technologist",
-  "hero_title": "I'm a product person and independent advisor, curious about complex systems, and other open-ended design challenges.",
-  "hero_subtitle": "Over the last twenty years my focus has been to take ideas from concept to reality in large enterprise, mid market, series C, and early stage start-ups.  leading multi-disciplinary teams."
+  "site_description": "product lead",
+  "hero_title": "This is Mehdi",
+  "hero_subtitle": "I'm a product manager and advisor. Curious about design challenges in complex systems. Over the last twenty years my focus has been to take ideas from concept to reality in enterprise, mid market, series C, and early stage companies. Enjoy connecting the dots where disciplines intersect."
 }
